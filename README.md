@@ -1,5 +1,5 @@
 # AdventurersProblem-WithMonads
-Group project developed for the Cyber-Physical Computation course, together with my colleague João Pedro Gomes (JoaoPedro9400 on Github). Consisted in modelling and analysing a cyber-physical system, using monads in Haskell.
+Group project developed for the Cyber-Physical Computation course. Consisted in modelling and analysing a cyber-physical system, using monads in Haskell. Developed together with [João Pedro Gomes](https://github.com/JoaoPedro9400).
 
 **Adventurers.hs**: main file of the project, which results from completing the code in file StartingPoint_Adventurers.hs;
 
